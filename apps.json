@@ -1,0 +1,17 @@
+{
+  "studio": {
+    "name": "Caburé Studio",
+    "contact": "tiraco@outlook.com"
+  },
+  "apps": [
+    {
+      "slug": "rummiclock",
+      "name": "Rummiclock",
+      "tagline": "Cronômetro de turnos e placar para jogos de mesa",
+      "package": "studio.cabure.rummiclock",
+      "days": 14,
+      "signupUrl": "",
+      "optinUrl": ""
+    }
+  ]
+}
